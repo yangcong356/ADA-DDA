@@ -11,7 +11,7 @@ python main.py --backbone & --batch_size & --epochs & --lr & --num_classes & --r
 ```
 
 ## Citation
-If you use this code for your research, please cite our [paper](https://www.researchgate.net/publication/365902077_Attention-Based_Dynamic_Alignment_and_Dynamic_Distribution_Adaptation_for_Remote_Sensing_Cross-Domain_Scene_Classification)
+If you use this code for your research, please cite our [paper](https://ieeexplore.ieee.org/document/9966735)
 
 ```
 @article{yang2022attention,
